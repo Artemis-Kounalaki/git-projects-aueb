@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch7;
+package gr.aueb.cf.cf9.ch7;
 
 public class LetterCount {
     public static void main(String[] args) {

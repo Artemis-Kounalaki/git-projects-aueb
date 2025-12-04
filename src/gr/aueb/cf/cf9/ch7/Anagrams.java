@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch7;
+package gr.aueb.cf.cf9.ch7;
 
 /**
  * Μία μέθοδος να παίρνει 2 string s1, s2
